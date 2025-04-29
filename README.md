@@ -10,6 +10,8 @@ Site is available on https://m9iv.github.io/kzaviryukha.github.io/
 
 - Eat & Split ([repo](https://github.com/m9iv/eat-n-split), [demo](https://m9iv.github.io/kzaviryukha.github.io/demo/eat-n-split/index.html))
 
+- usePopcorn ([repo](https://github.com/m9iv/use-popcorn), [demo](https://m9iv.github.io/kzaviryukha.github.io/demo/use-popcorn/index.html))
+
 ### CSS/HTML practice projects
 
 - Natours (on floats) ([repo](https://github.com/m9iv/natours), [demo](https://m9iv.github.io/kzaviryukha.github.io/demo/natours/index.html))
