@@ -9346,7 +9346,7 @@ const qd = () =>
         async function _() {
           u(!0)
           const L = await (
-            await fetch(`http://www.omdbapi.com/?apikey=${Zd}&i=${e}`)
+            await fetch(`https://www.omdbapi.com/?apikey=${Zd}&i=${e}`)
           ).json()
           o(L), u(!1)
         }
