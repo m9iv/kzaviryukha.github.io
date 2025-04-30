@@ -9118,7 +9118,7 @@ function Xd(e) {
           try {
             i(!0), l('')
             const c = await fetch(
-              `http://www.omdbapi.com/?apikey=${Yd}&s=${e}&page=1`,
+              `https://www.omdbapi.com/?apikey=${Yd}&s=${e}&page=1`,
               { signal: u.signal }
             )
             if (!c.ok)
