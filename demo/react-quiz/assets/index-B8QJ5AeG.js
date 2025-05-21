@@ -12313,7 +12313,7 @@ function Po() {
     R = A.reduce((E, H) => E + H.points, 0)
   return (
     Sa.useEffect(function () {
-      fetch('/kzaviryukha.github.io/demo/react-quiz/questions.json')
+      fetch('https://kzaviryukha.github.io/demo/react-quiz/questions.json')
         .then((E) => E.json())
         .then((E) => W({ type: 'dataRecieved', payload: E }))
         .catch((E) => W({ type: 'dataFailed' }))
