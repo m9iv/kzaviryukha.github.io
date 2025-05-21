@@ -12,6 +12,8 @@ Site is available on https://m9iv.github.io/kzaviryukha.github.io/
 
 - usePopcorn ([repo](https://github.com/m9iv/use-popcorn), [demo](https://m9iv.github.io/kzaviryukha.github.io/demo/use-popcorn/index.html))
 
+- React Quiz ([repo](https://github.com/m9iv/react-quiz), [demo](https://m9iv.github.io/kzaviryukha.github.io/demo/react-quiz/index.html))
+
 ### CSS/HTML practice projects
 
 - Natours (on floats) ([repo](https://github.com/m9iv/natours), [demo](https://m9iv.github.io/kzaviryukha.github.io/demo/natours/index.html))
