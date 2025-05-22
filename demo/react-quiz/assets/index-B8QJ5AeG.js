@@ -12314,9 +12314,9 @@ function Po() {
   return (
     Sa.useEffect(function () {
       fetch('/kzaviryukha.github.io/demo/react-quiz/questions.json')
-        .then((E) => E.json())
-        .then((E) => W({ type: 'dataRecieved', payload: E }))
-        .catch((E) => W({ type: 'dataFailed' }))
+        .then((res) => res.json())
+        .then((data) => W({ type: 'dataRecieved', payload: data.questions }))
+        .catch((err) => W({ type: 'dataFailed' }))
     }, []),
     p.jsxs('div', {
       className: 'app',
